@@ -1,0 +1,15 @@
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\bin\Debug\net6.0\less_1.exe
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\bin\Debug\net6.0\less_1.deps.json
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\bin\Debug\net6.0\less_1.runtimeconfig.json
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\bin\Debug\net6.0\less_1.dll
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\bin\Debug\net6.0\less_1.pdb
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\obj\Debug\net6.0\less_1.csproj.AssemblyReference.cache
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\obj\Debug\net6.0\less_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\obj\Debug\net6.0\less_1.AssemblyInfoInputs.cache
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\obj\Debug\net6.0\less_1.AssemblyInfo.cs
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\obj\Debug\net6.0\less_1.csproj.CoreCompileInputs.cache
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\obj\Debug\net6.0\less_1.dll
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\obj\Debug\net6.0\refint\less_1.dll
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\obj\Debug\net6.0\less_1.pdb
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\obj\Debug\net6.0\less_1.genruntimeconfig.cache
+D:\Программирование ОБУЧЕНИЕ GeekBrains\1 четверь\Introduction programming language\Csharp\less_1\obj\Debug\net6.0\ref\less_1.dll
