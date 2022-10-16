@@ -4,6 +4,8 @@ Console.Clear();
 
 Console.WriteLine("Введите пожалуйста день недели:");
 int day = Convert.ToInt32(Console.ReadLine());
+// int day = int.Parse(Console.ReadLine()); - второй способ конвертировать? если ругается (желтым), то ставят знак !
+// int day = Convert.ToInt32(Console.ReadLine()); - если ругается, то ставят знак ! - (Console.ReadLine()!)
 //Console.WriteLine("Вы выбрали:" +day);
 if (day == 1) Console.WriteLine("Понедельник");
 if (day == 2) Console.WriteLine("Вторник");
