@@ -10,6 +10,9 @@ Console.Write("Введите второе число: ");
 int b = int.Parse(Console.ReadLine()!);
 int max = a;
 if (a > b) max = a;
+// int max = b;
+//if (a > b) max = a;
 else max = b;
 Console.Write("max = ");
 Console.WriteLine(max);
+//Задача 2. Можно изначально присвоить в max значение b и с помощью if при необходимости заменить на a. Тогда строчка с else не понадобится.
