@@ -1,23 +1,20 @@
 ﻿// Напишите ЦИКЛ, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
 //3, 5 -> 243 (3⁵)
 //2, 4 -> 16
-// Придумал условия для создания цикла (фактическое решение в две строки), как требует задача
-void Exponentiation (double numberA, double numberB)
+
+void Exponentiation (int numberA, int numberB)
 {
-int i = 0;
-double exponent = 0;
-while (i < numberB)
-{
-    exponent = Math.Pow (numberA, numberB);
-    Console.WriteLine(exponent);
-    break;
-}
+int exponent = 1;
+for (int i = 0; i < numberB; i++)
+    {
+        exponent *= numberA;
+    }
+Console.WriteLine(exponent);
 }
 
 Console.WriteLine("Введите число А");
-double numberA = double.Parse(Console.ReadLine()!);
+int numberA = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите число В");
-double numberB = double.Parse(Console.ReadLine()!);
-
+int numberB = int.Parse(Console.ReadLine()!);
 
 Exponentiation(numberA, numberB);

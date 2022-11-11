@@ -1,35 +1,13 @@
 ﻿// Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран (1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]).
 
-void PrintArray (int[] col)
+Console.WriteLine("Введите 8 целых чисел в строку через пробел:");
+string[] s = Console.ReadLine().Split();
+int[] array = new int[8];
+for (int i = 0; i < 8; i++) 
 {
-    int count = col.Length;
-    int position = 0;
-    while (position <= count)
-    {
-        if (position == 0) Console.Write("[");
-        if (position < 7) Console.Write($"{col[position]}, ");
-        if (position == 7)
-            {
-                Console.Write($"{col[position]}");
-                Console.Write("]");
-            }
-        position++;
-    }
-    
+    array[i] = Int32.Parse(s[i]);
 }
 
-Console.WriteLine("Введите восемь элементов массива:");
-int num1 = int.Parse (Console.ReadLine()!);
-int num2 = int.Parse (Console.ReadLine()!);
-int num3 = int.Parse (Console.ReadLine()!);
-int num4 = int.Parse (Console.ReadLine()!);
-int num5 = int.Parse (Console.ReadLine()!);
-int num6 = int.Parse (Console.ReadLine()!);
-int num7 = int.Parse (Console.ReadLine()!);
-int num8 = int.Parse (Console.ReadLine()!);
-
-int[] array = {num1, num2, num3, num4, num5, num6, num7, num8};
-
-PrintArray (array);
+Console.WriteLine("[{0}]", string.Join(", ", array));
 
 
